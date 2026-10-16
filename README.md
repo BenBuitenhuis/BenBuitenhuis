@@ -2,7 +2,6 @@
 - 👨🏼‍🏫 I'm a primary school teacher in The Netherlands
 - 💻 I’m interested in Python, Django, Flask, Sentiment, Twython
 - 👨🏼‍💻 I’m currently learning Python
-- ✉️ You can reach me via Twitter
 
 
 <!---
